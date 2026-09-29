@@ -5,7 +5,7 @@ export default function Sidebar() {
  <div className="brandMark">T</div>
  <div>
  <strong>TaskFlow</strong>
- <span>student edition</span>
+ <span>Ivan Tovstukha</span>
  </div>
  </div>
  <nav className="menu" aria-label="Основная навигация">
